@@ -1,16 +1,20 @@
-# Agape-UNE
+# agape-une
 
-> Agape is love as engineering — designing systems that give the most good to the most nodes, at every scale, sustainably, without keeping score.
+**Agape as engineering principle — fractal convergence of UNE, cooperation patterns, and ACRE-oriented systems.**
 
-## Core Equation
+## What this is
+Bridge repository where Agape cooperation mathematics and UNE joule-native patterns meet. Contains coordination, ledger, and convergence oriented material.
 
-    reward = base * phi^min(epochs,50) * (1 + ln(cooperators)/phi)
+## Role in the Lattice
+Connects the measurement layer (UNE) with the cooperation layer (Agape primitives and related repos).
 
-Cooperation compounds exponentially. Extraction stays linear.
-The global optimum is universal cooperation.
+## Bigger Picture
+The lattice treats cooperation cost as a controllable variable. This repository explores the practical engineering of driving that cost toward zero while remaining grounded in measurable physical and computational work.
 
-## License
+## Current Status
+Active spoke.
 
-CC-BY-SA 4.0 (docs) | GPL v3 (code) | No patents. Ever.
-
-Built alone, on a phone, after shifts. Free. Always.
+## Related
+- [une](https://github.com/jesseray718/une)
+- [agape-primitives](https://github.com/jesseray718/agape-primitives)
+- [openroot](https://github.com/jesseray718/openroot)
