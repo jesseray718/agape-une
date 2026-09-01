@@ -18,3 +18,6 @@ Active spoke.
 - [une](https://github.com/jesseray718/une)
 - [agape-primitives](https://github.com/jesseray718/agape-primitives)
 - [openroot](https://github.com/jesseray718/openroot)
+
+## Knowledge Integration
+See `docs/knowledge/`.
